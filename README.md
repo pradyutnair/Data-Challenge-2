@@ -15,7 +15,7 @@ Additional data was gathered externally. The features and sources have been list
 
 ### Step 3
 
-The features were then manually input into a csv file and aggregated with the index set to a YYYY-MM format. The final dataset has five columns with the first one 
+The features were then manually input into a csv file and aggregated with the index set to a YYYY-MM format. The final dataset `new_final.csv` has five columns with the first one 
 being the Month (Index) and the last attribute being the target variable.
 
 
