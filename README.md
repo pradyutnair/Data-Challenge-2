@@ -1,5 +1,5 @@
 # Dataset Creation
-The primary focus is on the Street Dataset provided by the Government of UK and is available here- https://data.police.uk/data/. This was also converted into a pickle file for faster loading and EDA. 
+The primary focus is on the Street Dataset provided by the Government of UK and is available here- https://data.police.uk/data/. This was also converted into a pickle file for efficiency in EDA. 
 
 ### Step 1
 
