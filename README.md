@@ -31,4 +31,4 @@ Mahmut Can Aridasir (1415956) \
 Tess Mehlbaum (1645765) 
 
 ### Acknowledgements
-Thank you to our tutor for helping us every step along the way, and thank you to the course coordinators and teachers for providing us with this opportunity.
+Thank you to our tutor,Jolijn Martens, for helping us every step along the way, and thank you to the course coordinators and teachers for providing us with this research opportunity.
