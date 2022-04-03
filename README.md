@@ -25,10 +25,10 @@ The structure of the repository is as follows: Each branch is divided and named 
 
 ### Contributors
 Pradyut Nair (1577239 \
-Lieve Göbbels (1544047) 
-Jennifer Wu (1635085)
-Mahmut Can Aridasir (1415956)
-Tess Mehlbaum (1645765)
+Lieve Göbbels (1544047) \
+Jennifer Wu (1635085) \
+Mahmut Can Aridasir (1415956) \
+Tess Mehlbaum (1645765) \
 
 ### Acknowledgements
 Thank you to our tutor for helping us every step along the way, and thank you to the course coordinators and teachers for providing us with this opportunity.
