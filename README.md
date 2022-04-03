@@ -24,8 +24,8 @@ The structure of the repository is as follows: Each branch is divided and named 
 ```
 
 ### Contributors
-Pradyut Nair (1577239)
-Lieve Göbbels (1544047)
+Pradyut Nair (1577239 \
+Lieve Göbbels (1544047) 
 Jennifer Wu (1635085)
 Mahmut Can Aridasir (1415956)
 Tess Mehlbaum (1645765)
