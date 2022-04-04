@@ -9,3 +9,8 @@ Use different combinations of features to test feature importance and how it aff
 
 ## Phase 3
 Use all the findings and results to construct a SARIMA model with the optimal combination of hyperparameters and test the fit. Evaluate and benchmark the model using evaluation metrics. Also produce forecasts for future values and determine whether the results are reasonable.
+
+## Contributors
+[Jennifer Wu](https://github.com/j-jenniferwu) \
+[Lieve Göbbels](https://github.com/lievegobbels) \
+[Pradyut Nair](https://github.com/pradyutnair) 
