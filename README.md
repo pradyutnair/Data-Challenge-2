@@ -13,6 +13,8 @@ Additional data was gathered externally. The features and sources have been list
 2. **Unemployment Rate in the UK**: https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms
 3. **HPI of London**: https://www.statista.com/statistics/286025/united-kingdom-uk-monthly-house-price-index-in-london/
 
+NOTE: The values for HPI November and December 2021 were obtained separately from https://www.gov.uk/government/statistics/uk-house-price-index-for-november-2021/uk-house-price-index-summary-november-2021
+
 ### Step 3
 
 The features were then manually input into a csv file and aggregated with the index set to a YYYY-MM format. The final dataset `new_final.csv` has five columns with the first one 
