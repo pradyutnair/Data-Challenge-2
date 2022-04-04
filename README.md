@@ -6,11 +6,11 @@ This branch contains exploratory data analysis of the datasets used for the mode
 
 
 ## Contributors
-**Pradyut Nair** (1577239) \
-**Lieve Göbbels** (1544047) \
-**Jennifer Wu** (1635085) \
-**Mahmut Can Aridasir** (1415956) \
-**Tess Mehlbaum** (1645765)
+**[Jennifer Wu]**(https://github.com/j-jenniferwu) \
+**[Mahmut Can Aridasir]** (https://github.com/mahmutcan1) \
+**[Pradyut Nair]** (https://github.com/pradyutnair) 
+
+
 
 ## Acknowledgements
 Thank you to our tutor, Jolijn Martens, for helping us every step along the way, and thank you to the course coordinators and teachers for providing us with this research opportunity.
