@@ -3,7 +3,7 @@ This branch contains exploratory data analysis of the datasets used for the mode
 
 ## Examples
 /../main/assets/images/electrocat.png
-![This is an image](chloropleth\ map.png)
+![This is an image](city of london police.png)
 
 ## Contributors
 **Pradyut Nair** (1577239) \
