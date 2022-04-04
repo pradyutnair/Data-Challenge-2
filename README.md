@@ -2,7 +2,7 @@
 This branch contains exploratory data analysis of the datasets used for the models. EDA is an impotant step into deciding the final model, defining tasks, and the final goal of our research.
 
 ## Examples
-/../main/assets/images/electrocat.png
+
 ![This is an image](city of london police.png)
 
 ## Contributors
