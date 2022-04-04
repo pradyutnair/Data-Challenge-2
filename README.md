@@ -6,9 +6,9 @@ This branch contains exploratory data analysis of the datasets used for the mode
 
 
 ## Contributors
-**[Jennifer Wu]**(https://github.com/j-jenniferwu) \
-**[Mahmut Can Aridasir]** (https://github.com/mahmutcan1) \
-**[Pradyut Nair]** (https://github.com/pradyutnair) 
+[Jennifer Wu](https://github.com/j-jenniferwu) \
+[Mahmut Can Aridasir](https://github.com/mahmutcan1) \
+[Pradyut Nair](https://github.com/pradyutnair) 
 
 
 
