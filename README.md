@@ -12,5 +12,5 @@ Use all the findings and results to construct a SARIMA model with the optimal co
 
 ## Contributors
 [Jennifer Wu](https://github.com/j-jenniferwu) \
-[Lieve Göbbels](https://github.com/lievegobbels) \
+[Lieve Göbbels](https://github.com/Lieve2) \
 [Pradyut Nair](https://github.com/pradyutnair) 
