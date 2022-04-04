@@ -2,21 +2,22 @@
 
 This branch contains an LSTM model used for forecasting the crimes.
 
-## Getting Started
+## Phase 1 
+Like ARIMA, conduct univariate time series analysis (`Univariate LSTM Analysis.ipynb`). This means using only the total crimes to predict the total crimes.
 
-This notebook makes use of my pickle file containing the street data. I opted to use pickle files since they load 80x faster than csv files.
+## Phase 2
+Test baseline, bidirectional and convolutional LSTM model. Plot the loss per epoch and benchmark each model against the baseline model.
 
-### Prerequisites
+## Results
+The model failed to generalise to the data in both univariate and multivariate cases. This can be seen in the picture below-
+![lstm](https://user-images.githubusercontent.com/83001928/161606770-daf3e589-d1b9-4cac-95fc-3e0e2aee8d3e.png)
 
-What you need to run this notebook
+Therefore, the LSTM model was discarded.
 
-```
-* Python 3.9 or later installed
-* Python 3 PIP installed -- https://pip.pypa.io/en/stable/installing
-% python3 -m pip --version
-* pip install keras
-* pip install tensorflow
-* pip install sklearn
-```
+## Contributors
+[Pradyut Nair](https://github.com/pradyutnair) \
+[Lieve Göbbels](https://github.com/Lieve2) 
+
+
 
 
