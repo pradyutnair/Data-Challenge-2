@@ -2,7 +2,7 @@
 This branch contains exploratory data analysis of the datasets used for the models. EDA is an impotant step into deciding the final model, defining tasks, and the final goal of our research.
 
 ## Examples
-![ScreenShot](/chloropleth map.png)
+![ScreenShot](../chloropleth map.png)
 
 ## Contributors
 [Jennifer Wu](https://github.com/j-jenniferwu) \
