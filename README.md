@@ -2,7 +2,8 @@
 This branch contains exploratory data analysis of the datasets used for the models. EDA is an impotant step into deciding the final model, defining tasks, and the final goal of our research.
 
 ## Examples
-![This is an image](../EDA/chloropleth map.png)
+/../main/assets/images/electrocat.png
+![This is an image](/../main/EDA/chloropleth map.png)
 
 ## Contributors
 **Pradyut Nair** (1577239) \
